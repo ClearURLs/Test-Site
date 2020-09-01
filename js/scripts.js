@@ -94,7 +94,7 @@ function checkIssue253() {
         segment.append('<i class="large smile outline icon"></i>');
         segment.append('<div class="content"><p>Your ClearURLs version is not vulnerable to the problem from Issue 253.</p></div>');
     })
-    .attr("src", 'https://test.clearurls.xyz/void/index.html?url=https%3A%2F%2Ftest.cleaurls.xyz%2Fi253.html');
+    .attr("src", 'https://test.clearurls.xyz/void/index.html?url=https%3A%2F%2Ftest.clearurls.xyz%2Fi253.html');
 }
 
 $(window).on('load', function () {
