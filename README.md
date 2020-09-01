@@ -9,3 +9,5 @@
 **ClearURLs** is an add-on based on the new WebExtensions technology and is optimized for *Firefox* and *Chrome* based browsers.
 
 This repo manages the automatic function test site of the ClearURLs addon.
+
+The test site is available under: https://test.clearurls.xyz/
